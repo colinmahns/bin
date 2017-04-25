@@ -1,0 +1,2 @@
+# bin
+miscellaneous scripts
